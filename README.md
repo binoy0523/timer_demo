@@ -1,4 +1,4 @@
-# timer_demo
+# Timer
 A timer project as a task.
 
 ## Code architecture : MVVM
